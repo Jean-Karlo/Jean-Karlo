@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Jean Karlo 😁
 
  <div>
-   <a href="https://github.com/Suffokator">
+   <a href="https://github.com/Jean-Karlo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jean-Karlo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suffokator&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Karlo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
