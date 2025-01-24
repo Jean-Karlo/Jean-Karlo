@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao perfil do Jean Karlo 😁
+# 🧑‍💻 Jean Karlo
+
+**`Desenvolvedor Front-End`**
+
+Me chamo Larissa Vitória Kich, tenho 33 anos e sou natural de Belém-pa. Atualmente, estou aprendendo sobre programação através do curso DevQuest e sou apaixonado por tecnologia.
 
  <div>
    <a href="https://github.com/Jean-Karlo">
